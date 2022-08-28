@@ -1,25 +1,27 @@
-### Hi there 👋, I'am Shahrin Reza
-#### A web designer and developer
-![A web designer and developer](https://scontent.fdac138-1.fna.fbcdn.net/v/t1.6435-9/42738380_581899822224460_4178865611205509120_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=19026a&_nc_eui2=AeE4Vb4WtcuR9vNzSoY61nR-efp4wROhkD15-njBE6GQPZzZ_b3dT-CrRfPje8CyY-_zCM5Uav9zNPj0-DVCM6yo&_nc_ohc=UCmYm__0VOQAX_trA2F&tn=hmLIFIRLn16cEy5P&_nc_ht=scontent.fdac138-1.fna&oh=00_AT_Ypws6kZ5PjKRe5B9IxdXhae9yuvPvoEcH6lG6s9tLqA&oe=63208EED)
+<h1 align="center">Hi 👋, I'm Shahrin Reza</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahrinreza21&label=Profile%20views&color=0e75b6&style=flat" alt="shahrinreza21" /> </p>
 
-Skills:  HTML / CSS/Bootstarp/Javascript
+<p align="left"> <a href="https://twitter.com/shahrin_reza21" target="blank"><img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" /></a> </p>
 
-- 🔭 I’m currently working on Javascript 
-- 🌱 I’m currently learning PHP 
-- 👯 I’m looking to collaborate on Github 
-- 😄 Pronouns: shahrin 
+- 🌱 I’m currently learning **Javascript**
 
+- 📝 I regularly write articles on [khutinati21.blogspot.com](khutinati21.blogspot.com)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/shahrinreza21)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/shahrinreza21/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/_shahrinreza_21//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/shahrin_reza21)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/https://www.reddit.com/user/InternetBusiness7879)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='40'>](https://www.behance.net/shahrinrez4e6b)  
+- 📫 How to reach me **shahrinreza13172000@gmail.com**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/shahrinreza21)](https://github.com/anuraghazra/github-readme-stats)
+- ⚡ Fun fact **I am funny**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/shahrinreza21&show_icons=true)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/shahrin_reza21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shahrin_reza21" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/shahrinreza21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shahrinreza21/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/_shahrinreza_21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_shahrinreza_21/" height="30" width="40" /></a>
+</p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/shahrinreza21)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/shahrinreza21)  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahrinreza21&show_icons=true&locale=en&layout=compact" alt="shahrinreza21" /></p>
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/shahrinreza21)  
