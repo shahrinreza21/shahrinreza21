@@ -1,9 +1,11 @@
+[![MasterHead](https://www.fifteendesign.co.uk/wp-content/uploads/2016/10/DeveloperChallenges.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Shahrin Reza</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<img align="right" alt ="Coading" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahrinreza21&label=Profile%20views&color=0e75b6&style=flat" alt="shahrinreza21" /> </p>
 
-<p align="left"> <a href="https://twitter.com/shahrin_reza21" target="blank"><img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="shahrin_reza21" /></a> </p>
+<p align="left"> <a href="https://twitter.com/shahrin_reza21" target="blank"><img src="https://img.shields.io/twitter/follow/shahrin_reza21?logo=twitter&style=for-the-badge" alt="shahrin_reza21" /></a> </p>
 
 - 🌱 I’m currently learning **Javascript**
 
